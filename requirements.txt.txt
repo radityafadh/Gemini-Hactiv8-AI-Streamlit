@@ -1,5 +1,6 @@
 streamlit==1.49.0
 python-dotenv==1.1.1
+
 google-genai==1.32.0
 langchain==0.3.26
 langchain-core==0.3.75
@@ -7,5 +8,6 @@ langchain-community==0.3.27
 langchain-google-genai==2.1.10
 langgraph==0.6.6
 langgraph-prebuilt==0.6.4
+
 SQLAlchemy==2.0.41
 pandas==2.3.2
